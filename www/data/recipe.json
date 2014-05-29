@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Cheesy Mac",
+    "description": "Simple but bad for you."
+  },
+  {
+    "id": 2,
+    "name": "Ramen Noodles",
+    "description": "Terrible Food."
+  }
+]
